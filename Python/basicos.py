@@ -1,1 +1,1 @@
-print("Lenguajes: Python\n Rust \n Java \n C")
+print("Lenguajes: \n \t Python\n\t Rust \n\t Java \n\t C")
